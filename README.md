@@ -1,2 +1,0 @@
-# BikeSharing
- School Project
