@@ -16,7 +16,8 @@ function homeHeadTag()
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="icon" type="image/x-icon" href="img/favicon.jpeg">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/default.css">
 
     <title>BikeSharing</title>
 <?php
@@ -41,9 +42,11 @@ function navbar()
           <a href="#about" >ABOUT US</a>-
           <a href="#consulting" >CONSULTING</a>-
           <a href="#contact" >LOCATIONS</a>            
+          <a href="login.php" class="nav_login"><span class="material-symbols-outlined"> person </span></a>
+          <a href="winkelwagen.php" class="nav_winkelwagen"><span class="material-symbols-outlined"> shopping_cart </span></a>
         </div>
         <div id="mobile-sidenav" class="mobile-links w3-sand">
-          <a href="javascript:void(0)" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
+          <a href="js/javascript:void(0)" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
           <a href="#about" onclick="toggleMobileNavigation()">ABOUT</a>
           <a href="#consulting" onclick="toggleMobileNavigation()">CONSULTING</a>
           <a href="#contact" onclick="toggleMobileNavigation()">CONTACT</a>
