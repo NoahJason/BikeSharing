@@ -8,7 +8,7 @@ require("inc/functions.php");
   <body> 
 
    <?php
-   navbar();
+   homeNavbar();
    ?>
 
     <section class="hero w3-padding-large w3-container">
@@ -44,19 +44,6 @@ require("inc/functions.php");
               <!-- <img src="https://spaces.w3schools.com/images/sgZX15Da8YE.jpg" alt="Photo by Shipman Northcutt | Unsplash"/> -->
             </div>
             <h4><strong>Melih Ceylan</strong></h4>
-            <p style="margin-top: 0 !important;">Founder</p>
-            <div class="icons">
-              <a href="" target="_blank"><span><i class="fa fa-facebook-square"></i></a>
-              <a href="" target="_blank"><span><i class="fa fa-linkedin-square"></i></a>
-              <a href="" target="_blank"><span><i class="fa fa-address-card"></i></a>
-            </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-          <div class="l-card">
-            <div class="circular-portrait">
-              <!-- <img src="https://spaces.w3schools.com/images/OQ6DP54awvw.jpg" alt="Photo by Remi Turcotte | Unsplash"/> -->
-            </div>
-            <h4><strong>Remco Toonders</strong></h4>
             <p style="margin-top: 0 !important;">Founder</p>
             <div class="icons">
               <a href="" target="_blank"><span><i class="fa fa-facebook-square"></i></a>
