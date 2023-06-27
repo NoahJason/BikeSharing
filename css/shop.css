@@ -5,6 +5,7 @@
 body {
     font: normal 13px/1.5 Georgia, Serif;
     color: #333;
+    padding-bottom: 100px;
 }
 .wrapper {
     width: 705px;
@@ -68,3 +69,16 @@ span {
     height: 24px;
     margin: 0 10px 0 0;
 }
+
+img:hover{
+    opacity:0.6;
+    transition:0.5s;
+  }
+  
+  button:hover{
+    transition:0.5s;
+  }
+
+  .fietspics {
+    margin-top: 50%;
+  }
