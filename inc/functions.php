@@ -51,10 +51,12 @@ function homeNavbar()
           <a href="php/winkelwagen.php" ><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
         <div id="mobile-sidenav" class="mobile-links w3-sand">
-          <a href="js/javascript:void(0)" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
+          <a href="" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
           <a href="#about" onclick="toggleMobileNavigation()">ABOUT</a>
           <a href="#consulting" onclick="toggleMobileNavigation()">CONSULTING</a>
           <a href="#contact" onclick="toggleMobileNavigation()">CONTACT</a>
+          <a href="php/login.php" onclick="toggleMobileNavigation()">LOGIN</a>
+          <a href="php/winkelwagen.php" onclick="toggleMobileNavigation()">WINKELWAGEN</a>
         </div>
       </nav>
     </section>
@@ -103,7 +105,7 @@ function navbar()
           <p><img src="../img/logo.jpeg" alt="" class="logo"><a href="../"></a></p>
         </div>
         <div class="mobile-button">
-          <span style="float: right;" onclick="toggleMobileNavigation()">&#9776;</span>
+            <span style="float: right;" onclick="toggleMobileNavigation()">&#9776;</span>
         </div>
         <div class="links" id="navbar">
           <a href="../">HOME</a>-
@@ -115,10 +117,48 @@ function navbar()
           <a href="winkelwagen.php" ><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
         <div id="mobile-sidenav" class="mobile-links w3-sand">
-          <a href="js/javascript:void(0)" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
+          <a href="" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
           <a href="#about" onclick="toggleMobileNavigation()">ABOUT</a>
           <a href="#consulting" onclick="toggleMobileNavigation()">CONSULTING</a>
           <a href="#contact" onclick="toggleMobileNavigation()">CONTACT</a>
+          <a href="php/login.php" onclick="toggleMobileNavigation()">LOGIN</a>
+          <a href="php/winkelwagen.php" onclick="toggleMobileNavigation()">WINKELWAGEN</a>
+        </div>
+      </nav>
+    </section>
+<?php
+}
+?>
+
+<?php
+function navbarPassReg()
+{
+?>
+    <section class="navigation w3-metro-light-blue w3-container">
+       <button onclick="goToTop()" id="back-to-top" title="Go to top"><i class="fa fa-toggle-up"></i></button>
+      <nav class="nav-container">
+        <div class="logo w3-padding-large"> 
+          <p><img src="../img/logo.jpeg" alt="" class="logo"><a href="../"></a></p>
+        </div>
+        <div class="mobile-button">
+          <span style="float: right;" onclick="toggleMobileNavigation()">&#9776;</span>
+        </div>
+        <div class="links" id="navbar">
+          <a href="../">HOME</a>-
+          <a href="shop.php">SHOP</a>-
+          <a href="../#about" >ABOUT US</a>-
+          <a href="../#consulting" >CONSULTING</a>-
+          <a href="../#contact" >LOCATIONS</a>-        
+          <a href=".././php/login.php" ><i class="fa-solid fa-user"></i></a>-
+          <a href=".././php/winkelwagen.php" ><i class="fa-solid fa-cart-shopping"></i></a>
+        </div>
+        <div id="mobile-sidenav" class="mobile-links w3-sand">
+          <a href="" class="closebtn w3-round" onclick="toggleMobileNavigation()">&times;</a>
+          <a href="#about" onclick="toggleMobileNavigation()">ABOUT</a>
+          <a href="#consulting" onclick="toggleMobileNavigation()">CONSULTING</a>
+          <a href="#contact" onclick="toggleMobileNavigation()">CONTACT</a>
+          <a href="php/login.php" onclick="toggleMobileNavigation()">LOGIN</a>
+          <a href="php/winkelwagen.php" onclick="toggleMobileNavigation()">WINKELWAGEN</a>
         </div>
       </nav>
     </section>

@@ -12,7 +12,7 @@ require("inc/functions.php");
    ?>
 
     <section class="hero w3-padding-large w3-container">
-      <h1 style="display: inline;"><span><i class="fa fa-check-square-o"></i></span>Go to your destination with the best bike!</h1>
+      <h1 style="display: inline;">Go to your destination with the best bike!</h1>
       <p>Reliable bikes with the best prices</p>
       <a href="#contact" class="w3-padding-large w3-round">Reserve</a>
     </section>
@@ -22,18 +22,13 @@ require("inc/functions.php");
         <h2 style="text-align: center;">- Our Goal -</h2>
         <p style="text-align: center;">To satisfy customers with bicycles for purchase and or rent.</p>
         <h3 style="text-align: center;">- About Us -</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>We are a starting company trying to re-create the plan to buy and or rent bikes for a more affordable price. Not only more affordable but also more user friendly.
+          After we have seen how other companies have tried to make this project work we thought we would be able to do it better! We want to go for the best experience for every
+          customer that comes to us.</p>
+        <p>We started the idea thanks to a project from our school. They told us that we should dive into a subject we want to change something in. We came out that we found the most
+          simple subject but there is many more things to improve. According to these thoughts we started working on our project in order to get a grade, but this continued to a project
+          we want to continue working on and where our passion lays.
+        </p>
       </div>
 
       <div class="leadership content container w3-margin-top w3-round-large">
@@ -46,11 +41,11 @@ require("inc/functions.php");
             <h4><strong>Melih Ceylan</strong></h4>
             <p style="margin-top: 0 !important;">Founder</p>
             <div class="icons">
-              <a href="" target="_blank"><span><i class="fa fa-facebook-square"></i></a>
-              <a href="" target="_blank"><span><i class="fa fa-linkedin-square"></i></a>
+              <a href="" target="_blank"><span><i class="fa-brands fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/melih-ceylan-69827727a/" target="_blank"><span><i class="fa-brands fa-linkedin"></i></a>
               <a href="" target="_blank"><span><i class="fa fa-address-card"></i></a>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>I am 20 years old, still a student. In this project I have been busy with the designing the website, helped Noah with backend and was the leader of the group.</p>
           </div>
           <div class="l-card">
             <div class="circular-portrait">
@@ -59,11 +54,11 @@ require("inc/functions.php");
             <h4><strong>Sayfoullah</strong></h4>
             <p style="margin-top: 0 !important;">Founder</p>
             <div class="icons">
-                <a href="" target="_blank"><span><i class="fa fa-facebook-square"></i></a>
-                <a href="" target="_blank"><span><i class="fa fa-linkedin-square"></i></a>
+                <a href="" target="_blank"><span><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/sayfoullahnejjar/" target="_blank"><span><i class="fa-brands fa-linkedin"></i></a>
                 <a href="" target="_blank"><span><i class="fa fa-address-card"></i></a>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>I am 22 years old, still a student. In this project I have been busy with designing of the website togehter with Melih and iv worked on the shop.</p>
             </div>
           </div>
           <div class="circular-portrait">
@@ -72,33 +67,33 @@ require("inc/functions.php");
             <h4><strong>Noah Tai Apin</strong></h4>
             <p style="margin-top: 0 !important;">Founder</p>
             <div class="icons">
-              <a href="" target="_blank"><span><i class="fa fa-facebook-square"></i></a>
-              <a href="" target="_blank"><span><i class="fa fa-linkedin-square"></i></a>
+              <a href="" target="_blank"><span><i class="fa-brands fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/noah-tai-apin/" target="_blank"><span><i class="fa-brands fa-linkedin"></i></a>
               <a href="" target="_blank"><span><i class="fa fa-address-card"></i></a>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>I am 23 years old, still a student. In this project I have been busy with the back end part of the project, fixed some texts and a small bit of designing.</p>
           </div>
         </div>
       </div>
     </section>
 
     <section class="testimonials w3-container w3-panel" style="padding: 50px;">
-      <h2 style="text-align: center;">- Some of our customer stories -</h2>
+      <h2 style="text-align: center;">- Some of our ideas for improvement -</h2>
       <div class="slideshow-container">
 
       <div class="mySlides">
-        <p><q><em>The team at CONSULTCORP boosted my business by 500% in only 6 months! Their expertise helped me and my business to grow beyond what I thought it is possible.</em></q></p>
-        <p class="author"><strong>- John Keats, Founder of COMPANY-X</strong></p>
+        <p><q><em>The setup towards renting and or buying a bike can be tough since the costs are too much, we should offer people a ensurance for a small fee monthly so they can go everywhere they want without risking anything.</em></q></p>
+        <p class="author"><strong>- Noah, Back-end engineer</strong></p>
       </div>
 
       <div class="mySlides">
-        <p><q><em>CONSULTCORP helped me launch my idea in only 3 months! If there was not for CONSULTCORP team, I would probably not succeed.</em></q></p>
-        <p class="author"><strong>- Anne Johnson, Founder of COMPANY-Y</strong></p>
+        <p><q><em>The bikes that people are renting are usually always broken and kicked into pieces, we should prevent this by making a docing station for the bikes and hang camera's there.</em></q></p>
+        <p class="author"><strong>- Sayfoullah, Team leader </strong></p>
       </div>
 
       <div class="mySlides">
-        <p><q><em>The team at CONSULTCORP will help you steer your idea in the right direction, reducing all the risks you might encounter on your own! They surely did mine.</em></q></p>
-        <p class="author"><strong>- Dean Doe, Founder of COMPANY-Z</strong></p>
+        <p><q><em>In order to make this work we will have to be different then others, we will make sure that our gps location is more accurate so the cost to KM will be more precise.</em></q></p>
+        <p class="author"><strong>- Melih, Designer</strong></p>
       </div>
 
       <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -116,22 +111,22 @@ require("inc/functions.php");
     <section id="consulting" class="w3-container container consulting content">
       <h2 style="text-align: center;">- What we do -</h2>
       <div class="c-card w3-margin-top">
-        <p>We offer advices on how to successfully develop and adapt your business ideas</p>
+        <p>We offer bikes for rental and sale</p>
       </div>
       <div class="c-card c-card-right w3-margin-top">
-        <p>We implement strategies to identify business risks</p>
+        <p>We make sure that you pay as little as you need to pay</p>
       </div>
       <div class="c-card w3-margin-top">        
-        <p>We recommend necessary steps to lower, or even completely remove business risks</p>
+        <p>We make recommendations according to the routes you have been thru</p>
       </div>
       <div class="c-card  c-card-right w3-margin-top">
-        <p>We bring out-of-the-box ideas to refresh a business</p>
+        <p>We are always open to ideas and suggestions</p>
       </div>
       <div class="c-card w3-margin-top">
-        <p>We conduct analysis to reduce your financial costs</p>
+        <p>We have weekly meeting in order to impove our product</p>
       </div>
       <div class="c-card  c-card-right w3-margin-top">
-        <p>We provide you with a roadmap after we conduct business </p>
+        <p>We listen to our customers in order to improve</p>
       </div>
     </section>
 
@@ -139,19 +134,19 @@ require("inc/functions.php");
       <h2 style="text-align: center;">- Why choose us? -</h2>
       <div class="container boxes">
         <div class="box w3-round-large">
-          More than 15 years of experience
+          We are listing careful to the community
         </div>
         <div class="box w3-round-large">
-          Over 20000 of consultations
+          Sold over 10 bikes
         </div>
         <div class="box w3-round-large">
-          Over 3500 happy clients
+          Over 5 happy customers
         </div>
         <div class="box w3-round-large">
           100% secure
         </div>
         <div class="box w3-round-large" style="background-color: rgb(153, 255, 187);">
-          Won 75 business awards
+          Have passed our school project requirements
         </div>
       </div>
     </section>
